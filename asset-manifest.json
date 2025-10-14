@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/jahidhasan3737094/cross-county-tire-frontend/static/css/main.af927b41.css",
+    "main.js": "/jahidhasan3737094/cross-county-tire-frontend/static/js/main.046a4211.js",
+    "static/js/453.d7446e4a.chunk.js": "/jahidhasan3737094/cross-county-tire-frontend/static/js/453.d7446e4a.chunk.js",
+    "static/media/slick.svg": "/jahidhasan3737094/cross-county-tire-frontend/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/jahidhasan3737094/cross-county-tire-frontend/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/jahidhasan3737094/cross-county-tire-frontend/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/jahidhasan3737094/cross-county-tire-frontend/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/jahidhasan3737094/cross-county-tire-frontend/index.html",
+    "main.af927b41.css.map": "/jahidhasan3737094/cross-county-tire-frontend/static/css/main.af927b41.css.map",
+    "main.046a4211.js.map": "/jahidhasan3737094/cross-county-tire-frontend/static/js/main.046a4211.js.map",
+    "453.d7446e4a.chunk.js.map": "/jahidhasan3737094/cross-county-tire-frontend/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af927b41.css",
+    "static/js/main.046a4211.js"
+  ]
+}
